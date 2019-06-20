@@ -1,0 +1,16 @@
+[user]
+	name = dang hai
+	email = haihoangdang91@gmail.com
+[alias]
+	st = status
+	ci = commit
+	br = branch -a
+	co = checkout
+	tree = log --graph --decorate --pretty=oneline --abbrev-commit
+[color]
+	status = auto
+	branch = auto
+	ui = auto
+	diff = auto
+[core]
+	editor = vim
